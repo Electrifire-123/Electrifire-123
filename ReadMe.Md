@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.pexels.com/photos/693859/pexels-photo-693859.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="200"/>
+  <img src="./assets/preview.gif" height="200" alt="Rahul Yadav"/>
 </p>
 
 <h3> Hey there👋! I'm Rahul Yadav.</h2>
@@ -13,7 +13,7 @@
 
 <br>
 <p align="left"> 
-  <img src="./assets/preview.gif" alt="Rahul Yadav" />
+  <img src="https://komarev.com/ghpvc/?username=electrifire-123&label=Profile%20views&color=0e75b6&style=flat-square" alt="Rahul Yadav" />
 </p>
 
 ## 🌐 &nbsp;Contact
