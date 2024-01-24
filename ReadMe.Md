@@ -13,7 +13,7 @@
 
 <br>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=electrifire-123&label=Profile%20views&color=0e75b6&style=flat-square" alt="Rahul Yadav" />
+  <img src="./assets/preview.gif" alt="Rahul Yadav" />
 </p>
 
 ## 🌐 &nbsp;Contact
