@@ -21,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/-rahulyadav-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-yadav-36273220a
 )](https://www.linkedin.com/in/rahul-yadav-36273220a/)
 [![Gmail Badge](https://img.shields.io/badge/-rahullyadavv77@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahullyadavv77@gmail.com)](mailto:rahullyadavv77@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://portfolio-electrifire-123.vercel.app)
 
 
 ## 🛠 &nbsp;Tech Stack
